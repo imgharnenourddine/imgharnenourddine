@@ -93,12 +93,7 @@ Image processing system for detecting and analyzing oranges
 
 ---
 
-## ⚡ Fun Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgharnenourddine&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgharnenourddine&layout=compact&theme=dark&hide_border=true"/>
-</p>
 
 ---
 
