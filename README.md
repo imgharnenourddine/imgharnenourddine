@@ -31,20 +31,30 @@
 </p>
 
 ### 📊 Data & AI Tools
-- NumPy, Pandas  
-- Scikit-learn  
-- Matplotlib, Seaborn  
-- Power BI  
-- KNIME  
-- LangChain (Java - LangChain4j)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" title="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=notion" title="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=ai" title="LangChain"/>
+</p>
 
 ### 🗄️ Databases & Storage
-- PostgreSQL  
-- MySQL  
-- MinIO  
-- Qdrant  
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="MinIO (Object Storage)"/>
+  <img src="https://skillicons.dev/icons?i=database" title="Qdrant (Vector DB)"/>
+</p>
+
+-----------------
 
 ## 📌 Projects
 
@@ -86,8 +96,8 @@ Image processing system for detecting and analyzing oranges
 ## ⚡ Fun Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imgharnenourddine&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgharnenourddine&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgharnenourddine&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgharnenourddine&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
