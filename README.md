@@ -26,8 +26,8 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,react,spring,flask,tensorflow,pytorch,opencv,tailwind,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,react,spring,flask,opencv,tailwind,git,github" /><br/>
+  
 </p>
 
 ### 📊 Data & AI Tools
