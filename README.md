@@ -57,6 +57,9 @@
 -----------------
 
 ## 📌 Projects
+🔹 **AI Career Transition Platform(CareerBridge_AI)**  
+designed to help workers affected by automation transition into new careers.
+👉 https://github.com/imgharnenourddine/CareerBridge_AI  
 
 🔹 **Chat Universitaire (Ask ENSET)**  
 AI-powered chatbot for university-related queries  
